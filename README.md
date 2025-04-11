@@ -1,6 +1,6 @@
 # Mental Sağlık Durumu Tespiti için Metin Sınıflandırma Projesi
 <p align="center">
-  <img src="mental_health.png" alt="Proje Kapak Fotoğrafı" width="500">
+  <img src="mental_health.jpg" alt="Proje Kapak Fotoğrafı" width="500">
 </p>
 
 [![Lisans](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
